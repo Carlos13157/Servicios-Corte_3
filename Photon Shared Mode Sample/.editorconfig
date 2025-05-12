@@ -1,0 +1,4 @@
+# Comienza las configuraciones específicas para C#
+[*.cs]
+# Llaves en la misma línea para tipos y métodos
+csharp_new_line_before_open_brace = none
